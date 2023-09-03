@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Khushi Khandelwal</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://gifer.com/en/8JIk" alt="coding" align="right" width="400">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Building Netflix Clone**
 
 - 🌱 I’m currently learning **javascript**
