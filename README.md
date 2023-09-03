@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Khushi Khandelwal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,7 +7,7 @@
 
 - 💬 Ask me about **dsa,html,css,python,c,c++**
 
-- 📫 How to reach me **kkhushi0703@gmail.com**
+- 📫 How to reach me **githubkhushi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
