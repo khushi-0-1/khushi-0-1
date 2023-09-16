@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Khandelwal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Building Netflix Clone**
+- 🔭 I’m currently working on **A JavaScript project**
 
 - 🌱 I’m currently learning **javascript**
 
